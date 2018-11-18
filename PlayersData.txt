@@ -1,0 +1,15 @@
+Ahmed	1050
+Khalid	450
+Mohammed	9
+Omar	600
+Mustafa	800
+Mansour	300
+Saad	350
+Yousef	1050
+Alkad	750
+Fahad	50
+Hassan	-700
+Emad	-200
+Hazim	-700
+Saleh	-200
+shfaa	-450
